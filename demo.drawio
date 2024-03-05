@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2024-03-05T08:08:32.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.1" etag="ggfhElcOrSv_ZmJDuG4N" type="github">
+  <diagram name="第 1 页" id="6GvZh5eh0bDnlYzuGn_A">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="核心功能" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="152" y="82" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="匹配测评" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="15" y="52" width="85" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="手机端操作" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="169" y="15" width="101" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="后台管理" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="292" y="95" width="86" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="数据报表" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="205" y="190" width="86" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="更新维护" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="49" y="174" width="85" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="8" style="endArrow=none" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9" style="endArrow=none" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10" style="endArrow=none" edge="1" parent="1" source="2" target="5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11" style="endArrow=none" edge="1" parent="1" source="2" target="6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12" style="endArrow=none" edge="1" parent="1" source="2" target="7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

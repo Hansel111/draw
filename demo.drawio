@@ -1,42 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T08:08:49.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="eCYWJ5E-UC1tddKHcA_5" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T06:26:47.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="do6tK-GnSi5dcJHls69B" version="24.0.2" type="github">
   <diagram name="第 1 页" id="6GvZh5eh0bDnlYzuGn_A">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="核心功能" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="369" y="287" width="85" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="3" value="匹配测评" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="232" y="257" width="85" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="4" value="手机端操作" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="386" y="220" width="101" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="5" value="后台管理" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="509" y="300" width="86" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="6" value="数据报表" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="422" y="395" width="86" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="7" value="更新维护" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="266" y="379" width="85" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="8" style="endArrow=none" parent="1" source="2" target="3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9" style="endArrow=none" parent="1" source="2" target="4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="10" style="endArrow=none" parent="1" source="2" target="5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="11" style="endArrow=none" parent="1" source="2" target="6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="12" style="endArrow=none" parent="1" source="2" target="7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
